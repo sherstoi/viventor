@@ -33,8 +33,8 @@ http://localhost:8080/bank/createAccount and next JSON:
 *{"accountId":"","accountNum":"","balance":5, "client":{}}*
 Account automatically will be linked to current loggin user.
 
-To put or get money from account please use two below URL's:
-http://localhost:8080/bank/deposit
+To put or get money from account please use two below URL's:</br>
+http://localhost:8080/bank/deposit</br>
 http://localhost:8080/bank/withdrawn
 
 and this JSON:
